@@ -7,7 +7,7 @@
 ## Requirements
 - An iOS device that can be jailbroken with [checkra1n](https://checkra.in). 
 - USB 
-- Stoage
+- Storage
     - The archive can be quite large (GB's in size). Typically AFU dumps will contain more data as well. 
 - Time
     - This process isnt quick and we are open to suggestions on how to improve!
